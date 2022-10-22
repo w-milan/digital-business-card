@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  background: #23252C;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.main{
+  width: 400px;
+  background-color: #1A1B21;
+  color: #fff;
+}
+
+.info img{
+  width: 400px;
+}
