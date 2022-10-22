@@ -96,3 +96,25 @@ body {
   font-size: 10.24px;
   line-height: 150%;
 }
+
+/***Interests section***/
+
+.interests {
+  width: 330px;
+  margin: 0 auto;
+}
+
+.interests h3 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 150%;
+  margin: 20px 0 0 0;
+}
+
+.interests p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+}
